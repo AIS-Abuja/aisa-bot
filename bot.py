@@ -84,7 +84,8 @@ def tweet(text):
     except tweepy.error.TweepError as e:
         log(e.message)
     else:
-        log("Tweeted: " + text)
+        log("Tweeted: " + text) 
+#"I love technology" 
 
 
 def log(message):
