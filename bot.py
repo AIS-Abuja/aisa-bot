@@ -98,3 +98,10 @@ def log(message):
 if __name__ == "__main__":
     tweet_text = create_tweet()
     tweet(tweet_text
+
+        #Make a comment in the file itself
+
+
+
+
+        
